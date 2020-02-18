@@ -28,4 +28,4 @@ NodeJS 12.14.1 ou superior, package manager - (Yarn/NPM), Insomnia.
 <h1 align="center">Tecnologias Utilizadas </h1>
 
 ## Backend: Javascript - API em NodeJS.
->Express, Nodemon, Sucrase, JsonWebToken, BcryptJS, Yup, date-fns, Multer, Sequelize, Sentry.io, Youch, dotenv, Mongoose, PostgreSQL, MongoDB, Docker, EsLint e Prettier. 
+>Express, Nodemon, Sucrase, JsonWebToken, BcryptJS, Yup, date-fns, Multer, Sequelize, Sentry.io, Youch, dotenv, Mongoose, PostgreSQL ou MySql, MongoDB, Docker, EsLint e Prettier. 
